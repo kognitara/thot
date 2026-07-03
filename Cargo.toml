@@ -1,0 +1,11 @@
+[package]
+name = "thot"
+version = "0.1.0"
+edition = "2024"
+license = "AGPL-3.0"
+description = "a post unix asm"
+readme = "README.md"
+repository = "https://github.com/kognitara/thot"
+categories = ["development-tools::compilers"]
+keywords = ["compiler", "assembly", "codegen", "zero-legacy"]
+[dependencies]
